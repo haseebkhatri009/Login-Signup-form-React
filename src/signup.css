@@ -1,0 +1,48 @@
+h2{
+    font-family: monospace;
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+#signupdiv{
+    background-color: white;
+    border: 1px solid;
+    border-radius: 20px;
+    margin-top: 70px;
+    height: 310px;
+    width: 270px;
+}
+#signupusername,#signupemail,#signuppass{
+    width: 200px;
+    height: 25px;
+    border-radius: 5px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+#signupbtn{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 30px;
+    width: 90px;
+    margin-left: 90px;
+    border-radius: 10px;
+    border: none;
+    background-color: #0048AA;
+    color: white;
+    cursor: pointer;
+}
+#signupbtn:hover{
+    background-color: #022e6b;  
+}
+#already{
+    font-size: 15px;
+    margin-left: 10px;
+    font-family: monospace;
+}
+#loginanchor{
+    text-decoration: none;
+}
+#loginanchor:hover{
+    color: red;
+}

@@ -1,0 +1,58 @@
+h2{
+    font-family: monospace;
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+#logindiv{
+    /* border: 1px solid; */
+    border-radius:  20px;
+    margin-top: 71px;
+    height: 270px;
+    width: 270px;
+    background-color: white;
+}
+#loginform{
+    /* border: 1px solid; */
+}
+#loginname,#loginpass{
+    width: 200px;
+    border-radius: 5px;
+    height: 25px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+#loginname{
+
+}
+#loginpass{
+
+}
+#loginbtn{
+    margin-left: 90px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    height: 30px;
+    width: 90px;
+    background-color: #0048AA;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+#loginbtn:hover{
+    background-color: #022e6b;  
+}
+#dont{
+    margin-left: 10px;
+    font-size: 15px;
+    font-family: monospace;
+}
+#signupanchor{
+    text-decoration: none;
+
+}
+#signupanchor:hover{
+    color: red;
+}

@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+}
+#mainheading{
+    color: white;
+    font-family: monospace;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline;
+    position: relative;
+    top: 30px;
+    /* margin-top: 10px; */
+    margin-bottom: 30px;
+    
+}
+#body{
+    background-color: #0048AA;
+    height: 100vh;
+
+}
+#maindiv{
+    display: flex;
+    justify-content: center;
+    /* border: 1px solid; */
+    /* position: relative;
+    top: 30px; */
+}
